@@ -2,6 +2,7 @@
 %
 O01009
 (ELLIPSE MACRO CHC)
+((c)Michael Dillio for Praxis Mechatronics 2024)
 
 (---------OPTIMIZED FOR HAAS CLASSIC CONTROL-----------)
 

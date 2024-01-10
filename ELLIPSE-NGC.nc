@@ -2,6 +2,7 @@
 %
 O01009 
 (ELLIPSE MACRO NGC)
+((c)Michael Dillio for Praxis Mechatronics 2024)
 
 (---------OPTIMIZED FOR HAAS NEXT GEN CONTROL---------)
 
